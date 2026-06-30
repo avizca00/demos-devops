@@ -6,5 +6,3 @@ cambia el modulo
 
 cambia en el local
 
-dispara el nuevo job
-
